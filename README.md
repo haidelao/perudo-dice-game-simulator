@@ -1,6 +1,12 @@
-# It's a Lie
+# It's a Lie -- A twist on the classic 'Perudo'
 
-A complete static Perudo website with Da Vinci-inspired house rules and human-style opponents. One human plays against 1–5 bots. Built with native JavaScript modules, HTML, and CSS: no runtime dependencies, accounts, API keys, database, package installation, or paid AI service.
+## Motivations
+
+I really enjoyed playing Perudo and thinking about Da Vinci's variant, It's a Lie, which I played in London. Hence, I created this website to simulate playing with (relatively intelligent) bots in this Perudo-style game with the twists I thought made the classic game more interesting.
+
+You can play with up to 1-5 bots, and toggle dice odds and implied dice odds, which I hope would be educational to help improve how to play the game. You can choose which house rules to play with as well.
+
+### Most importantly, I hope you have fun!
 
 ![Desktop game preview](docs/preview-desktop.png)
 
