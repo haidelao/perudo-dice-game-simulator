@@ -1,6 +1,8 @@
 # It's a Lie — A twist on the classic 'Perudo'!
 
-We played this game at the Meet the Da Vincians brunch in London, which was super fun! I also won a free trip to Amsterdam, which is pretty cool.
+We played this game at the Meet the Da Vincians brunch in London, which was super fun! I also won a free trip to Amsterdam, which is pretty cool. I was actually in joint first place after round 2 here, actually, before absolutely tanking it in the third (and final) round. I should really stop feeling so tempted to call calza, although I lost two die due to the 'first one-die blind' house rule by accidentally looking at my hand (I was not locked in enough to keep track of who fell to one dice).
+
+![R2 Leaderboard] (/the-r2-leaderboard)
 
 ## Motivations
 
