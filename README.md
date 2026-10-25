@@ -1,16 +1,18 @@
 # It's a Lie — A twist on the classic 'Perudo'!
 
-We played this game at the Meet the Da Vincians brunch in London, which was super fun! I also won a free trip to Amsterdam, which is pretty cool. I was actually in joint first place after round 2 here, actually, before absolutely tanking it in the third (and final) round. I should really stop feeling so tempted to call calza, although I lost two die due to the 'first one-die blind' house rule by accidentally looking at my hand (I was not locked in enough to keep track of who fell to one dice).
-
-![R2 Leaderboard](docs/the-r2-leaderboard.jpeg)
-
 ## Motivations
 
-I really enjoyed playing Perudo and thinking about Da Vinci's variant, It's a Lie, which I played in London. Hence, I created this website to simulate playing with (relatively intelligent) bots in this Perudo-style game with the twists I thought made the classic game more interesting.
+I really enjoyed playing Perudo and thinking about Da Vinci's variant, It's a Lie, which we played at the Da Vinci brunch in London. Hence, I created this website to simulate playing with (relatively intelligent) bots in this Perudo-style game with the twists I thought made the classic game more interesting.
 
 You can play with up to 1-5 bots, and toggle dice odds and implied dice odds, which I hope would be educational to help improve how to play the game. You can choose which house rules to play with as well.
 
+I was able to win a free trip to Amsterdam, although I was visiting there this December anyways, but who says no to a free trip? I was in joint first place after round 2 here, before absolutely tanking it in the third (and final) round. I should really stop feeling so tempted to call Calza ('Exact'), although I lost two die due to the 'first one-die blind' house rule by accidentally looking at my hand (I was not locked in enough to keep track of who fell to one dice).
 
+![R2 Leaderboard](docs/the-r2-leaderboard.jpeg)
+
+## Preview
+
+Honestly, the website is mainly just here for me to play the game instead of hosting it on my local machine. I would say real-life gameplay definitely involves more psychological strategy, but you definitely need a good mathematical foundation for it nevertheless!
 
 ![Desktop game preview](docs/preview-desktop.png)
 
