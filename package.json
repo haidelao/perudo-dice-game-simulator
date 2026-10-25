@@ -1,0 +1,16 @@
+{
+  "name": "its-a-lie",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A browser Perudo house-rules game with human-style opponents",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs dist",
+    "build": "node scripts/build.mjs",
+    "test": "node --test",
+    "check": "node scripts/check.mjs",
+    "simulate": "node scripts/simulate.mjs"
+  }
+}
