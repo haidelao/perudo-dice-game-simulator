@@ -1,4 +1,4 @@
-# It's a Lie -- A twist on the classic 'Perudo'
+# It's a Lie — A twist on the classic 'Perudo'!
 
 ## Motivations
 
@@ -6,7 +6,9 @@ I really enjoyed playing Perudo and thinking about Da Vinci's variant, It's a Li
 
 You can play with up to 1-5 bots, and toggle dice odds and implied dice odds, which I hope would be educational to help improve how to play the game. You can choose which house rules to play with as well.
 
-### Most importantly, I hope you have fun!
+### Most importantly, have fun :)
+
+
 
 ![Desktop game preview](docs/preview-desktop.png)
 
