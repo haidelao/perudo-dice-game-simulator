@@ -45,16 +45,3 @@ test/                   Node standard-library tests
 docs/                   Rule decisions, AI design, verification and limitations
 ```
 
-## Design and scope
-
-This replaces the supplied GTO scaffold with a smaller working application. Native modules avoid a framework/build-tool dependency chain for this relatively small game. The engine, bot logic, worker, and UI remain separate and can be migrated to TypeScript or React later without changing the rules contract.
-
-Bots aim for plausible thoughtful play rather than mathematical optimality. Their probabilities and heuristics are approximate; difficulty and personalities should be tuned with human playtesting. Read [AI.md](docs/AI.md).
-
-The supplied original Da Vinci rule sheet was absent. The implemented interpretations are explicit in [RULES.md](docs/RULES.md); these are not independently verified official rules. Physical comeback/heckling and hygiene rules are omitted. This is an independent, unofficial implementation and uses no Da Vinci branding assets.
-
-There is no online multiplayer or shared leaderboard. All dice exist in browser memory, so deliberate browser inspection can expose them. Replay seeds also reveal rolls. Appropriate for casual practice, not trusted competition or stakes. A future multiplayer version needs a server that owns dice and validates actions.
-
-## Privacy
-
-The app makes no analytics or API requests. Game logs are stored under `its-a-lie:v1` in localStorage on the current device, when available. Bot profiles are reconstructed from that game's public reveals; they do not track a player across games. Use **About & privacy → Clear saved game** to remove the save. A game still open in the tab will save again on its next move. The hosting provider may retain standard request logs.
